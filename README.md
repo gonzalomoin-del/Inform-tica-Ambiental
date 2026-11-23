@@ -1,6 +1,6 @@
 # 💻 Contaminación Ambiental e Informática Ecológica (Green IT)
 > **Asignatura:** Fundamentos de Hardware — 1.º de ASIR
-> **Integrantes:** [Tu Nombre] y [Nombre de tu compañero]
+> **Integrantes:** Gonzalo Morales y Rafael Moreno
 
 ---
 
